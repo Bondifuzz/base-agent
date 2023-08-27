@@ -1,4 +1,4 @@
-mq-transport[sqs]@git+https://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@github.com/Bondifuzz/mq-transport.git@0.1.0
+mq-transport[sqs]@git+https://github.com/Bondifuzz/mq-transport.git@0.1.0
 boto3 == 1.17.49 #>= 1.20.1 # TODO: aioboto (s3 to async)
 kubernetes-asyncio==12.1.0
 pydantic >= 1.8.2
